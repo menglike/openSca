@@ -1,12 +1,12 @@
 # openSca
-一款基于openSca-cli且开源的SCA供应链检测系统
+一款基于悬镜的openSca-cli且开源的SCA供应链检测系统
 
 # 基于python3 + Amis 开发
 仅依赖Flask,requests,celery,pymysql
 
 
 # 部署方式：
-1 下载源码，配置python依赖,可以国内镜像源<br/>
+1 下载源码，配置python依赖,可以喧杂国内镜像源<br/>
 
 2 启动服务： python main.py runserver --reload，默认端口7777<br/>
 
@@ -24,7 +24,7 @@
 页面预览：
   ![image](111.png)
    ![image](222.png)
-    ![image]（333.png)
+    ![image](333.png)
      ![image](444.png)
 
 
